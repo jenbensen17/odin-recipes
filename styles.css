@@ -1,0 +1,23 @@
+h1 {
+    background-color: deepskyblue;
+    text-align: center;
+    color: navy;
+    font-family: monospace;
+}
+
+ul {
+    list-style-type: square; /* Change the bullet style */
+    list-style-position: inside; /* Position the bullet inside the list item */
+}
+
+ul li {
+    color: blue; 
+    font-weight: bold; 
+    margin: 5px 0; 
+    padding: 10px; 
+    background-color: aliceblue;
+}
+
+a {
+    color: dodgerblue;
+}
